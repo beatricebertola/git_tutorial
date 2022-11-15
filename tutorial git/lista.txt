@@ -4,3 +4,8 @@ tre
 quattro
 cinque
 sei
+
+NUOVI NUMERI 
+sette
+otto
+nove
